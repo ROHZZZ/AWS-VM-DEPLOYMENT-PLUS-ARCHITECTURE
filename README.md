@@ -103,4 +103,3 @@ Tag Value-	Web-Final-34115490
 
 Verify that you can connect to Public IP Address
 
-![output](https://github.com/sumukhsm/Deploying-an-End-to-End-solution-with-a-Windows-virtual-Machine-on-AWS/assets/144142565/7ea8956b-056e-4d01-a9c4-85ae9cc06390)
