@@ -1,0 +1,22 @@
+body {
+background-color: #36a;
+}
+.mainBox {
+width: 100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.textBox {
+width: 30%;
+text-align: center;
+}
+h1 {
+color: #fff;
+}
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
